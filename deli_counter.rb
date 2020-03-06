@@ -1,5 +1,5 @@
 def line (array)
-  array.each|name| 
+  | 
   
 end
 
