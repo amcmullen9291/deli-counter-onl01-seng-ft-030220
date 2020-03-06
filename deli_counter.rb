@@ -1,7 +1,6 @@
 def line (array)
   array.each|name| 
-  if array.size== 0
-  array.map.with_index { |w, i| "#{i}:#{w}"
+  
 end
 
 def take_a_number(array, name)
